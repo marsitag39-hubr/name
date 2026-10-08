@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite3
+backend/turnos.db
+backend/.venv/
+backend/.venv-*/
+backend/packages/
+.venv/
+venv/
+
+# Angular / Node
+frontend/node_modules/
+frontend/.angular/
+frontend/dist/
+frontend/coverage/
+npm-debug.log*
+
+# Local environment and editor files
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
